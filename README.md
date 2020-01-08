@@ -2,6 +2,8 @@
 
 A tutorial app that walks the user through creating a Photo Gallery app. We begin with the Ionic "tabs" starter app, incrementally converting the About tab to a Photo Gallery experience.
 
+> Note: As of January 2020, this repository is no longer maintained. Please see [our documentation](https://ionicframework.com/docs/intro/first-app) for the latest supported tutorials.
+
 ## Structure
 Each folder in this repo represents completed source code for each step of the tutorial, available here (TODO - docs link coming soon!).
 * part1 - DevApp and Camera: Add basic Camera support. Ability to take one picture at a time.
